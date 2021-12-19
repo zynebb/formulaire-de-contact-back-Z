@@ -1,0 +1,27 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "formulaire de contact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zynebb/formulaire-de-contact-back-Z.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zynebb/formulaire-de-contact-back-Z/issues"
+  },
+  "homepage": "https://github.com/zynebb/formulaire-de-contact-back-Z#readme",
+  "keywords": [],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-formidable": "^1.2.0",
+    "mailgun-js": "^0.22.0"
+  }
+}
